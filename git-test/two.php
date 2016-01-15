@@ -3,7 +3,7 @@
 3
 4
 5
-ficha
+no ficha
 <?php
 
 /* 
